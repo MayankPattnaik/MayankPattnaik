@@ -25,6 +25,6 @@
 
 
 ### 🔥 GitHub Stats
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankPattnaik&show_icons=true)
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=MayankPattnaik&show_icons=true)
 
 ---
