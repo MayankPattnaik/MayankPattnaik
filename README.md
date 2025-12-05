@@ -25,6 +25,6 @@
 
 
 ### 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cosmo_Lord&show_icons=true)
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayankPattnaik&show_icons=true)
 
 ---
