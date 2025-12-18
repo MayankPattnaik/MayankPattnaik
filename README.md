@@ -1,7 +1,7 @@
 ### Hi there and Welcome to my Profile👋
 <h4 align="center">Myself, Mayank Pattnaik, a junior undergraduate in the Department of Physics at Indian Institute of Technology Kanpur. My research interests lie at the core of Physics (more specifically, Astrophysics and QMQC ;) ) and applications of ML in real life problems.</h4>
 
- I'm currently working on: *None!! (Winter Break Laziness)* and currently learning: *How to sleep nonstop for 10 hours??* For constant blabbering, reach me at: **mayankp23@iitk.ac.in** (Official), **saimayank100@gmail.com** (Personal) .
+ I'm currently working on: *None!! (Winter Break Laziness)* and currently learning: *How to sleep nonstop for 10 hours??* For constant blabbering, reach me at: **mayankp23@iitk.ac.in** (Official), **saimayank100@gmail.com** (Personal) . 😃😃
 
 ---
 
